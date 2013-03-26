@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # Capek Main
 
-#   Copyright 2013 David B. Curtis
+#   Copyright 2013 ThinkerBlox, LLC
 
 #   This file is part of Capek.
 #   

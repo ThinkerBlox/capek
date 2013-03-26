@@ -1,6 +1,8 @@
 Capek Reference Manual
 ______________________
 
+Copyright 2013 ThinkerBlox, LLC
+
 Introduction
 ============
 Capek is a programming language targeting applications for robots or other mechatronic or real-time systems. 
